@@ -18,7 +18,7 @@ This project leverages **OpenCV** and **MediaPipe** to recognize hand gestures a
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/narasmiha224/hand-gesture-control/blob/main/hand_controlled_game.py
+   git clone https://github.com/narasmiha224/hand-gesture-control/blob/main/hand_controll_game.py
    ```
 
 2. Make sure all required packages are installed:
